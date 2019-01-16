@@ -30,3 +30,7 @@ jobs:
       - run:
           name: Tests
           command: yarn test
+
+      - run:
+          name: Coverage
+          command: yarn coveralls
