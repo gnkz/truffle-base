@@ -1,4 +1,6 @@
 # truffle-base
+[![CircleCI](https://circleci.com/gh/gnkz/truffle-base.svg?style=svg&circle-token=50a850cf78b3b8b95800c237a566cce1d29890e2)](https://circleci.com/gh/gnkz/truffle-base)
+[![Coverage Status](https://coveralls.io/repos/github/gnkz/truffle-base/badge.svg?branch=master)](https://coveralls.io/github/gnkz/truffle-base?branch=master)
 
 # License
 
